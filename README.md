@@ -12,6 +12,10 @@ Este dashboard fue diseñado para responder las siguientes preguntas de negocio:
 - ¿Qué ciudades representan los mercados más rentables?
 
 El objetivo es comprender el comportamiento del negocio desde diferentes perspectivas y proporcionar información que facilite la toma de decisiones, permitiendo priorizar productos, evaluar estrategias de descuento e identificar oportunidades de mejora.
+---
+👉 **Enlace del dashboard:**
+
+**🔗 https://app.powerbi.com/groups/me/reports/cb8db6df-f5d4-4509-888c-b91c032b5f93/28b7735a506b3b39d831?experience=power-bi&bookmarkGuid=37caf93ef5f20d5e0d35**
 
 ---
 
